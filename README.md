@@ -1,8 +1,7 @@
 # Mobile Device Management Lab | Miradore
-
-## Project Overview
-
 Configured a mobile device management (MDM) lab using Miradore to simulate device administration in a small business with a bring-your-own-device (BYOD) policy.
+
+## Description
 
 The project covered enrolling Android and iPadOS devices, configuring an Android work profile, deploying Android applications, and retiring or unenrolling devices. Screenshots document the workflow from initial enrollment through device removal.
 
@@ -12,7 +11,14 @@ The project covered enrolling Android and iPadOS devices, configuring an Android
 - Configure an Android work profile for the simulated BYOD environment.
 - Review enrolled device information through the Miradore console.
 - Deploy applications to the enrolled Android device.
-- Practice device retirement and unenrollment workflows.
+
+## Skills Demonstrated
+
+- Cross-platform device enrollment
+- Android work profile configuration
+- Device inventory review
+- Android application deployment
+
 
 ## Tools and Devices
 
@@ -22,15 +28,6 @@ The project covered enrolling Android and iPadOS devices, configuring an Android
 | Android device | OnePlus 8T | Android enrollment, work profile configuration, and application deployment |
 | Apple device | iPad Pro (2015) | Apple device enrollment and management |
 
-## Skills Demonstrated
-
-- Mobile device management
-- Cross-platform device enrollment
-- Android work profile configuration
-- Device inventory review
-- Android application deployment
-- Device lifecycle administration
-- Technical documentation
 
 ## Lab Walkthrough
 
@@ -123,7 +120,3 @@ Practiced device removal workflows using Miradore's retirement and unenrollment 
 - Deployed applications to the enrolled Android device.
 - Completed device retirement and unenrollment workflows.
 - Created screenshot-based documentation of the device management lifecycle.
-
-## Project Scope
-
-This project was completed in a personal lab using two devices. It demonstrates hands-on practice with mobile device administration rather than management of a production enterprise environment.
